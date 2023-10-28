@@ -118,4 +118,5 @@ Template--> HTML file containing the layout of the web page,with logic on how to
 			127.0.0.1:8000/admin/
 http://127.0.0.1:8000/
 
-![Screenshot (41)](https://github.com/tamaraiselva/E_VOTING_SYSTEM_USING_BLOCKCHAIN/assets/113119433/25cac1f0-d577-4f7c-a215-65b43d5de9cc)
+![Screenshot (41)](https://github.com/tamaraiselva/E_VOTING_SYSTEM_USING_BLOCKCHAIN/assets/113119433/fb875ef2-ae20-456b-9f40-f3eb0be3b32d)
+![Screenshot (42)](https://github.com/tamaraiselva/E_VOTING_SYSTEM_USING_BLOCKCHAIN/assets/113119433/9d153cfc-acba-495e-8dc2-b4f4c8c460f1)
