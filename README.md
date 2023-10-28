@@ -1,4 +1,4 @@
-# E_VOTING_SYSTEM_USING_BLOCKCHAINswatick cm (swatickmurali@icloud.com)
+# E_VOTING_SYSTEM_USING_BLOCKCHAIN
 
 Django is a Python framework 
 back-end server side web framework
