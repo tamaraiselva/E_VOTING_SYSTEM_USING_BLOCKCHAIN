@@ -116,3 +116,6 @@ Template--> HTML file containing the layout of the web page,with logic on how to
 			python manage.py runserver
 
 			127.0.0.1:8000/admin/
+http://127.0.0.1:8000/
+
+![Screenshot (41)](https://github.com/tamaraiselva/E_VOTING_SYSTEM_USING_BLOCKCHAIN/assets/113119433/25cac1f0-d577-4f7c-a215-65b43d5de9cc)
